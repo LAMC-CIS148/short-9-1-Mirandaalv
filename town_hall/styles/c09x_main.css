@@ -310,6 +310,33 @@ padding-bottom: 1em;
 
 }
 
+right {
+
+flex-basis: 30%;
+
+order: 1;
+
+padding: 0 0 20px 2.5%;
+
+}
+
+right h2 {
+
+color: #800000;
+
+font-size: 130%;
+
+padding: .5em 0 .25em 0;
+
+}
+
+right h3 {
+
+font-size: 105%;
+
+padding-bottom: .25em;
+
+}
 /* the styles for the footer */
 
 footer {
